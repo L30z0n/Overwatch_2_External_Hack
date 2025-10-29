@@ -10,6 +10,7 @@ Requirement<br>
 F3 = Aimbot on/off <b>(Mouse 4 button to activate)</b><br>
 F4 = Esp on/off<br>
 F5 = change team (Friend/Enemy)<br>
+F12 - exit<br>
 <br>
 This is a demo for 1 day only.<br>
 <br>
