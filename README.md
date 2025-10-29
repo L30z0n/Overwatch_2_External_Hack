@@ -14,3 +14,8 @@ F5 = change team (Friend/Enemy)<br>
 This is a demo for 1 day only.<br>
 <br>
 If u want more days, send email to raw@xeetos.online.<br>
+
+
+Full version print:
+
+<img width="2350" height="1128" alt="image" src="https://github.com/user-attachments/assets/e2d21b0b-60d0-4b3f-8530-1cdbcc8d9a2e" />
