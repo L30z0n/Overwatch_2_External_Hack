@@ -7,7 +7,7 @@ Requirement<br>
 2 - Run OW2 in window mode<br>
 3 - run hack<br>
 <br>
-F3 = Aimbot on/off<br>
+F3 = Aimbot on/off<br> (Mouse 4 button to activate)
 F4 = Esp on/off<br>
 F5 = change team (Friend/Enemy)<br>
 <br>
